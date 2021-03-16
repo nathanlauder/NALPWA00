@@ -37,7 +37,7 @@
   	"type": "image/png", 
   	"purpose": "any maskable"
   }],
-  "start_url": "/PWA00NAL/index.html",
+  "start_url": "/PWA00NAL/index.html/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "white",
