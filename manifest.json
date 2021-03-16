@@ -1,6 +1,8 @@
 {
   "name": "Hello, World",
   "short_name": "Hello",
-  "start_url: "/PWA00NAL/index.html",
-  "display": "standalone"
+  "start_url": "/PWA00NAL/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
 }
